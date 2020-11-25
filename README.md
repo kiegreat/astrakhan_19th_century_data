@@ -30,14 +30,14 @@
 
 Источник - [Электронная библиотека «Астраханская краеведческая коллекция»](http://aonb.astranet.ru/kk/)
 
-| **Год данных** | **Источник** | **Примечания** |
-| :---: | --- | --- |
-| 1871 | [Отчет Астраханского Губернского Статистического Комитета за 1871 год. А., 1872.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020002.pdf) | |
-| 1872 | [Отчет Астраханского Губернского Статистического Комитета за 1872 год. А., 1873.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020003.pdf) | |
-| 1873 | [Отчет Астраханского Губернского Статистического Комитета за 1873 год. А., 1874.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020004.pdf) | |
-| 1874 | [Отчет Астраханского Губернского Статистического Комитета за 1874 год. А., 1875.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020005.pdf) | |
-| 1876 | [Отчет Астраханского Губернского Статистического Комитета за 1876 год. А., 1878.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020006.pdf) | |
-| 1877 | [Отчет Астраханского Губернского Статистического Комитета за 1877 год. А., 1878.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020007.pdf) | |
-| 1878 | [Отчет Астраханского Губернского Статистического Комитета за 1878 год. А., 1880.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020008.pdf) | |
-| 1879 | [Отчет Астраханского Губернского Статистического Комитета за 1879 год. А., 1881.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020009.pdf) | |
-| 1880 | [Отчет Астраханского Губернского Статистического Комитета за 1880 год. А., 1882.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020011.pdf) | |
+| **Год данных** | **Источник** |
+| :---: | --- |
+| 1871 | [Отчет Астраханского Губернского Статистического Комитета за 1871 год. А., 1872.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020002.pdf) |
+| 1872 | [Отчет Астраханского Губернского Статистического Комитета за 1872 год. А., 1873.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020003.pdf) |
+| 1873 | [Отчет Астраханского Губернского Статистического Комитета за 1873 год. А., 1874.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020004.pdf) |
+| 1874 | [Отчет Астраханского Губернского Статистического Комитета за 1874 год. А., 1875.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020005.pdf) |
+| 1876 | [Отчет Астраханского Губернского Статистического Комитета за 1876 год. А., 1878.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020006.pdf) |
+| 1877 | [Отчет Астраханского Губернского Статистического Комитета за 1877 год. А., 1878.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020007.pdf) |
+| 1878 | [Отчет Астраханского Губернского Статистического Комитета за 1878 год. А., 1880.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020008.pdf) |
+| 1879 | [Отчет Астраханского Губернского Статистического Комитета за 1879 год. А., 1881.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020009.pdf) |
+| 1880 | [Отчет Астраханского Губернского Статистического Комитета за 1880 год. А., 1882.](http://aonb.astranet.ru/dl/?file=http://aonb.astranet.ru/kk/pdf/bm000020011.pdf) |
