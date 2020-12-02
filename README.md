@@ -2,6 +2,8 @@
 
 Поиск источников основывался на данной **[статье](https://cyberleninka.ru/article/n/osnovnye-statisticheskie-istochniki-dlya-izucheniya-razvitiya-rossiyskogo-goroda-v-xix-v)**
 
+Резервная копия всех источников - [здесь](https://yadi.sk/d/SWLOFwZ3LGHbOA?w=1)
+
 | **Год данных** | **Источник** | **Примечания** |
 | :---: | --- | --- |
 | `1811` | [Статистические исследования относительно Российской империи. Ч.1. О народонаселении. СПб., 1819.](http://nipol.ucoz.ru/load/statistika_rossijskoj_imperii/statistika_naselenija_i_rasselenija/statisticheskie_issledovanija_otnositelno_rossijskoj_imperii_chast_1_o_narodonaselenii/142-1-0-7517) | Данные по V (1795) и VI (1811) ревизиям, дополненные местными полицейскими переписями |
@@ -14,7 +16,7 @@
 | 1849 | Статистические таблицы, составленные в Статистическом отделении Совета Министерства внутренних дел, по сведениям за 1849 год. СПб., 1852. | [Находится здесь?](https://rusneb.ru/catalog/000200_000018_v19_rc_1426955/) |
 | `1850` | [Артемовский С. Статистико-географическаятаблица городов Российской империи. СПб., 1855.](http://elib.shpl.ru/ru/nodes/4486-artemovskiy-s-statistiko-geograficheskaya-tablitsa-gorodov-rossiyskoy-imperii-spb-1855) | |
 | 1856 | [Статистические таблицы Российской Империи за 1856-й год. Спб., 1858.](http://nipol.ucoz.ru/load/statistika_rossijskoj_imperii/statistika_naselenija_i_rasselenija/statisticheskie_tablicy_rossijskoj_imperii_za_1856_god/142-1-0-2482) | |
-| 1858 | [Городские поселения в Российской империи. СПб., 1860. Т.1.](https://runivers.ru/lib/book19825/595670/) | Астраханская губерния - в I томе |
+| 1859 | [Городские поселения в Российской империи. СПб., 1860. Т.1.](https://runivers.ru/lib/book19825/595670/) | Астраханская губерния - в I томе |
 | 1859 | [Списки населенных мест Российской империи по сведениям 1859 года. Астраханская губерния. СПб., 1861.](https://rusneb.ru/catalog/000200_000018_v19_rc_1343379/) | |
 | 1861 | [Экономическое состояние городских поселений Европейской России в 1861-62 г. СПб., 1863. Ч.1.](https://rusneb.ru/catalog/000199_000009_003834451/) | |
 | 1863 | [Статистический временник Российской империи. СПб., 1866. Вып.1. Отд.1.](http://nipol.ucoz.ru/load/statistika_rossijskoj_imperii/statisticheskij_vremennik_rossijskoj_imperii_1866_1890/statisticheskij_vremennik_rossijskoj_imperii_serija_1_vypusk_1/141-1-0-2451) | |
